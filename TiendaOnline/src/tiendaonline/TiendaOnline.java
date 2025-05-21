@@ -20,5 +20,5 @@ public class TiendaOnline {
         carrito.agregarProducto(remera);
         carrito.mostrarDetalle();
     }
-    
+  
 }
